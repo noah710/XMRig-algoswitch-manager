@@ -6,4 +6,4 @@
 # ex. ./run.sh thinkpad.json thinkpad-cpu  
 
 ./build.sh
-docker run -it -e CONFIG=/configs/${1} -e WORKER=${2} xmrig-algoswitch bash
+docker run -d -e CONFIG=/configs/${1} -e WORKER=${2} xmrig-algoswitch

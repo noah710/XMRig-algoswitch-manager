@@ -7,7 +7,7 @@
         "access-token": null,
         "restricted": true
     },
-    "background": true,
+    "background": false,
     "donate-level": 1,
     "cpu": {
         "enabled": true
