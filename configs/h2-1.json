@@ -21,7 +21,7 @@
     "cuda": false,
     "pools": [
         {
-            "url": "gulf.moneroocean.stream:10128",
+            "url": "gulf.moneroocean.stream:10032",
             "user": "8AKMNMWcY6VYwpqJFmerggiZxiP5E6gPKXMRZpxMdv4mRKG51MSY6Bi3PWoE1Dxm2wWtbxKaP8TzT5mbjc3E2azrSx54BUL",
             "pass": "h2-1",
             "keepalive": true
