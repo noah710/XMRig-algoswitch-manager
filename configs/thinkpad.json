@@ -1,0 +1,30 @@
+{
+    "autosave": true,
+    "http": {
+        "enabled": true,
+        "host": "0.0.0.0",
+        "port": 60015,
+        "access-token": null,
+        "restricted": true
+    },
+    "background": false,
+    "donate-level": 1,
+    "cpu": {
+        "enabled": true
+    },
+    "randomx": {
+        "1gb-pages": true,
+        "rdmsr": true,
+        "wrmsr": true
+    },
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "gulf.moneroocean.stream:10128",
+            "user": "8AKMNMWcY6VYwpqJFmerggiZxiP5E6gPKXMRZpxMdv4mRKG51MSY6Bi3PWoE1Dxm2wWtbxKaP8TzT5mbjc3E2azrSx54BUL",
+            "pass": "thinkpad-cpu",
+            "keepalive": true
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+[submodule "xmrig-algoswitching"]
+	path = xmrig-algoswitching
+	url = git@github.com:MoneroOcean/xmrig.git
